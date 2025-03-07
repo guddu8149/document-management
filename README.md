@@ -24,12 +24,19 @@ To run this project locally, follow these steps:
 ```bash
 git clone https://github.com/your-username/document-management.git
 cd document-management
+
+2️⃣ Install dependencies
 npm install
+
+3️⃣ Run the development server
 npm run dev
+
+The app should now be running at http://localhost:3000
 
 ---
 
 ### **5. Project Structure**
 ```md
 ## Project Structure
+
 
