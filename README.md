@@ -41,7 +41,7 @@ npm run dev
 
 ### **5. Project Structure**
 ```md
-## Project Structure
+
 📁 document-management
 ┣ 📂 app
 ┃ ┣ 📜 layout.tsx (Main Layout)
@@ -68,7 +68,7 @@ npm run dev
 ```
 ### **6. Contributing**
 ```md
-## Contributing
+
 
 Contributions are welcome! To contribute:
 1. Fork the repository.
