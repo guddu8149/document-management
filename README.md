@@ -17,17 +17,6 @@ A **Next.js-based Document Management System** that allows users to upload, mana
 - **Styling:** Tailwind CSS
 - **State Management:** React Hooks
 
----
-📁 Project Structure
-document-management/
-│-- src/
-│   │-- components/
-│   │-- pages/
-│   │-- styles/
-│-- public/
-│-- package.json
-│-- README.md
-
 
 
 
