@@ -16,27 +16,12 @@ A **Next.js-based Document Management System** that allows users to upload, mana
 - **Frontend:** Next.js, React, TypeScript
 - **Styling:** Tailwind CSS
 - **State Management:** React Hooks
-## Installation & Setup
-
-To run this project locally, follow these steps:
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/your-username/document-management.git
-cd document-management
-
-### Install dependencies
-npm install
-
-3️⃣ Run the development server
-npm run dev
-
-The app should now be running at http://localhost:3000
 
 ---
 
-### **5. Project Structure**
-```md
-## Project Structure
+## Installation & Setup
 
-
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/document-management.git
+cd document-management
