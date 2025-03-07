@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
 git clone https://github.com/your-username/document-management.git
 cd document-management
 
-### 2️⃣ Install dependencies
+## 2️⃣ Install dependencies
 ```bash
 npm install
 
