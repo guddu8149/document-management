@@ -18,10 +18,21 @@ A **Next.js-based Document Management System** that allows users to upload, mana
 - **State Management:** React Hooks
 
 ---
+📁 Project Structure
+document-management/
+│-- src/
+│   │-- components/
+│   │-- pages/
+│   │-- styles/
+│-- public/
+│-- package.json
+│-- README.md
 
-## Installation & Setup
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/document-management.git
-cd document-management
+
+
+
+
+
+
+
